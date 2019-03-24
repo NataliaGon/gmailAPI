@@ -16,6 +16,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "main": "main.js",
   "browserslist": [
     ">0.2%",
     "not dead",
